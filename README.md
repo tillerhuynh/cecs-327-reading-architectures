@@ -12,8 +12,7 @@ Answer the following questions from the Chapter 2 reading from your textbook. Be
 7. Not every node in a peer-to-peer network should become superpeer. What are reasonable requirements that a superpeer should meet?
 8. Give an example of a self-managing system in which the analysis component is completely distributed or even hidden.
 9. Consider a BitTorrent system in which each node has an outgoing link with a bandwidth capacity $B_{out}$ and an incoming link with bandwidth capacity $B_{in}$. Some of these nodes (called seeds) voluntarily offer files to be downloaded by others. What is the maximum download capacity of a BitTorrent client if we assume that it can contact at most one seed at a time?
-10. Modern cars are stuffed with electronic devices. Give some 
-  examples of feedback control systems in cars.
+10. Modern cars are stuffed with electronic devices. Give some  examples of feedback control systems in cars.
 
 ### Deliverables
 * Your writeup file *must* be done in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) format and must be included in the repository as a separate file. View the file [`README.md`](README.md?plain=1) for an example of Markdown.
